@@ -77,31 +77,31 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" />
+<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" /></p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />&nbsp;<img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="framer"/>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" /><img src="https://cdn.simpleicons.org/framer" width="48" height="48" alt="framer"/></p>
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" />
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" /></p>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
+<p align="left"><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" /></p>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" />&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="langchain"/>&nbsp;<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="huggingface"/>
+<p align="left"><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="langchain"/><img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="huggingface"/></p>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" />
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" /></p>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,figma,postman,jest" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter"/>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,figma,postman,jest" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="jupyter"/></p>
 
 ---
 
@@ -206,7 +206,6 @@
 ![](https://img.shields.io/badge/Developers%20Mentored-100%2B-FF9800?style=for-the-badge)
 ![](https://img.shields.io/badge/Workshops%20Led-10%2B-00BCD4?style=for-the-badge)
 ![](https://img.shields.io/badge/Hackathon%20Wins-3-F44336?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-9.75%20%2F%2010-3F51B5?style=for-the-badge)
 
 </div>
 
