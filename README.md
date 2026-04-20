@@ -27,12 +27,11 @@
 
 ![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)
 &nbsp;
-
-![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-3%20🏆-orange?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-2%20🏆-orange?style=flat-square)
 &nbsp;
 ![Systems](https://img.shields.io/badge/Production%20Systems-7%20🚀-red?style=flat-square)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=prakhar362&label=Profile%20Views&color=0e75b6&style=flat" alt="prakhar362" />
+![Profile Views](https://komarev.com/ghpvc/?username=prakhar362&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -43,82 +42,116 @@
 ```yaml
 👨‍💻  Name       : Prakhar Shrivastava
 🎓  College    : VESIT, Mumbai — B.E. Information Technology (2023–2027)
-📊  CGPA       : 9.75 / 10 
+📊  CGPA       : 9.75 / 10
 📍  Location   : Mumbai, India
 💼  Open To    : Full-Stack | Backend | AI/LLM | DevOps Roles
 🚀  Currently  : Building real-time & AI-native production systems
 ⚡  Fun Fact   : I played cricket before I played keyboards — still love both 🏏
 ```
 
-- 🔭 **Currently working on:** How do we make AI practical, not just cool? How do we handle 100x growth without rewriting?
-- 🌱 **Currently learning:** GraphQL, Kubernetes, Terraform, and Artificial Intelligence
-- 🤝 **Looking for help with:** Build products with real impact — software that changes how people work/live
-- 💬 **Ask me about:** JavaScript, TypeScript, Python, Java, Node.js, WebSockets, Firebase, System Design
-- 📫 **How to reach me:** **prakharshri2005@gmail.com**
-- 👨‍💻 **All of my projects are available at:** **[https://prakhar-shrivastava.vercel.app/](https://prakhar-shrivastava.vercel.app/)**
-- 📄 **Know about my experiences:** **[Resume / CV](https://drive.google.com/file/d/1CHpOxuObfVtTs2Qys0FAS8JpjFEdl7ar/view?usp=sharing)**
-- 🏆 **Highlights:** 3 Hackathon Wins · 7 Production Systems · 100+ Devs Mentored · 2 Internships
+- 🔭 **Currently building:** AI-integrated real-time systems and collaborative tools
+- 🌱 **Currently learning:** System Design at scale, Kubernetes, Terraform, RAG pipelines
+- 🤝 **Open to collaborate on:** Full-stack SaaS, AI products, DevOps-heavy systems
+- 💬 **Ask me about:** Node.js, React, WebSockets, Firebase, AI integration, system design
+- 🏆 **Highlights:** 7 Production Systems · 100+ Devs Mentored · 2 Internships
+- 📫 How to reach me **prakharshri2005@gmail.com**
+- 👨‍💻 All of my projects are available at **[https://prakhar-shrivastava.vercel.app/](https://prakhar-shrivastava.vercel.app/)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1CHpOxuObfVtTs2Qys0FAS8JpjFEdl7ar/view?usp=sharing](https://drive.google.com/file/d/1CHpOxuObfVtTs2Qys0FAS8JpjFEdl7ar/view?usp=sharing)**
 
 ---
 
 ## 🌐 Socials
 
-<p align="left">
-<a href="https://github.com/prakhar362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="prakhar362" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prakhar-shrivastava-a4927b2b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/prakharshri2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakharshri2005" height="30" width="40" /></a>
-<a href="https://twitter.com/prakharshri2005" target="blank"><img src="https://img.shields.io/twitter/follow/prakharshri2005?logo=twitter&style=for-the-badge" alt="prakharshri2005" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prakhar-shrivastava-a4927b2b5/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/prakharshri2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://prakhar-shrivastava.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:prakharshri2005@gmail.com)
+
+</div>
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Tech Stack
+
+**Languages**
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>
-  <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/></a>
-  <a href="https://langchain.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
-  <a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
+</p>
+
+**Backend & APIs**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+</p>
+
+**AI / ML**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
+</p>
+
+**DevOps & Cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws-wordmark" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+</p>
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
 ---
@@ -126,99 +159,68 @@
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Sketchcalibur
-> Real-time collaborative canvas at scale
-
-- 👥 **100+ concurrent users** with <100ms sync
-- 🔄 CRDT-based conflict-free ordering
-- 💾 Persistent state across disconnections
-- 🤖 AI diagram generation from sketches
-- 📊 **70% session retention** rate
-
-**Stack:** `Next.js` `TypeScript` `WebSockets` `MongoDB` `Vertex AI` `Docker`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sketchcalibur.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakhar362/sketchcalibur)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ VesitBite
-> Canteen automation — from chaos to accuracy
-
-- 📉 **80% reduction** in order errors
-- ✅ **90% order accuracy** (multi-layer checks)
-- ⚡ **30% faster** delivery times
-- 👥 **200+ daily users** for 3 months straight
-- 📱 Web + React Native mobile app
-
-**Stack:** `Node.js` `MongoDB` `React` `React Native` `Socket.io` `Razorpay`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://appetize.io/app/b_vbrq2hacm2cze2owt2hjjjm6xe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakhar362/vesitbite)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Streamify
-> Real-time communication for peer learners
-
-- 💬 Instant messaging with real-time sync
-- 🎥 HD video calling (Stream Video SDK)
-- 🔐 Secure JWT auth (httpOnly cookies)
-- 👥 Group creation & permission management
-- 📱 Mobile-responsive, works everywhere
-
-**Stack:** `React.js` `Node.js` `Express` `MongoDB` `Stream SDK` `JWT`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://streamify-nu-bay.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakhar362/Streamify)
-
-</td>
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 LMS Platform
-> Full-stack Learning Management System
-
-- 👥 Role-based access (Student / Teacher / Admin)
-- 📚 Course management & enrollment flows
-- ✅ Assessments, grading & progress tracking
-- 📊 Real-time analytics dashboard
-- 🔄 Complete full-stack MERN ownership
-
-**Stack:** `MongoDB` `Express` `React` `Node.js` `Tailwind CSS`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://courseconvo.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakhar362/LMS)
-
-</td>
-</tr>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Live</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>🎂 <b>BanquetEase</b></td>
+    <td>AI-powered event automation — Vertex AI video invites, WhatsApp via Twilio, Razorpay payments, real-time kitchen dashboard. <b>Saves 20+ hrs/event.</b><br/><code>Next.js 16</code> <code>TypeScript</code> <code>Firebase</code> <code>Twilio</code> <code>Vertex AI</code> <code>Docker</code></td>
+    <td><a href="https://banquetease.vercel.app">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/SMURFS_hn4">💻 Repo</a></td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Sketchcalibur</b></td>
+    <td>Real-time collaborative canvas for <b>100+ concurrent users</b> with &lt;100ms sync, CRDT ordering, AI diagram generation, 70% session retention.<br/><code>Next.js</code> <code>WebSockets</code> <code>MongoDB</code> <code>Vertex AI</code> <code>Docker</code></td>
+    <td><a href="https://sketchcalibur.vercel.app">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/sketchcalibur">💻 Repo</a></td>
+  </tr>
+  <tr>
+    <td>🍽️ <b>VesitBite</b></td>
+    <td>Canteen automation — <b>80% error reduction</b>, 90% order accuracy, 30% faster delivery for <b>200+ daily users</b>.<br/><code>Node.js</code> <code>Socket.io</code> <code>React Native</code> <code>Razorpay</code></td>
+    <td><a href="https://appetize.io/app/b_vbrq2hacm2cze2owt2hjjjm6xe">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/vesitbite">💻 Repo</a></td>
+  </tr>
+  <tr>
+    <td>💬 <b>Streamify</b></td>
+    <td>Real-time comms — instant messaging + HD video calling, JWT auth, group management, mobile-first.<br/><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Stream SDK</code></td>
+    <td><a href="https://streamify-nu-bay.vercel.app">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/Streamify">💻 Repo</a></td>
+  </tr>
+  <tr>
+    <td>📱 <b>Xillion App</b></td>
+    <td>Production fintech trading app — <b>10+ screens</b>, real-time trades via AngelOne APIs, OAuth 2.0 + OTP auth. <b>40% faster delivery</b> than team baseline.<br/><code>React Native</code> <code>OAuth 2.0</code> <code>AngelOne APIs</code></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>LMS Platform</b></td>
+    <td>Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics.<br/><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></td>
+    <td><a href="https://courseconvo.onrender.com/">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/LMS">💻 Repo</a></td>
+  </tr>
 </table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar362&show_icons=true&locale=en&layout=compact" alt="prakhar362" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar362&show_icons=true&locale=en&layout=compact" alt="prakhar362" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar362&show_icons=true&locale=en" alt="prakhar362" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar362&" alt="prakhar362" /></p>
 
-### 📈 Contribution Graph
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakhar362&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar362&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" alt="Contribution Graph" width="95%"/>
+
+</div>
+
 
 ---
 
@@ -237,11 +239,15 @@
 
 ## 💼 Experience
 
+<div align="center">
+
 | Role | Company | Period | Highlights |
 |:---|:---|:---|:---|
-| 📱 React Native Dev Intern | **Xillion, Mumbai** | Jun–Jul 2025 | 10+ production screens · AngelOne broker API · OAuth 2.0 · **40% faster than baseline** |
-| ☁️ Cloud Engineering Intern | **Applied Cloud Computing, Mumbai** | Jan–Apr 2025 | AWS infra from scratch · NLP resume parser · 50+ real applicants |
-| 🎓 Jr. Technical Officer | **ISTE-VESIT** | Sep 2024–Present | 10+ workshops · Mentored **100+ developers** · AI/LLMs, n8n, full-stack |
+| 📱 React Native Dev Intern | **Xillion, Mumbai** | Jun–Jul 2025 | 10+ production screens · Real AngelOne broker API · OAuth 2.0 · **40% faster than baseline** |
+| ☁️ Cloud Engineering Intern | **Applied Cloud Computing, Mumbai** | Jan–Apr 2025 | AWS infra from scratch · NLP resume parser · Tested on 50+ applicants |
+| 🎓 Jr. Technical Officer | **ISTE-VESIT** | Sep 2024–Present | Led 10+ workshops · Mentored **100+ developers** · AI/LLMs, n8n, full-stack |
+
+</div>
 
 ---
 
@@ -250,9 +256,10 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/Production%20Systems-7%20Shipped-FF6B6B?style=for-the-badge)
-![](https://img.shields.io/badge/Concurrent%20Users-100%2B-4CAF50?style=for-the-badge)
+![](https://img.shields.io/badge/Concurrent%20Users-100%2B%20Handled-4CAF50?style=for-the-badge)
 ![](https://img.shields.io/badge/APIs%20Integrated-10%2B-2196F3?style=for-the-badge)
 ![](https://img.shields.io/badge/GitHub%20Commits-200%2B-9C27B0?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Developers%20Mentored-100%2B-FF9800?style=for-the-badge)
 ![](https://img.shields.io/badge/Workshops%20Led-10%2B-00BCD4?style=for-the-badge)
 ![](https://img.shields.io/badge/Hackathon%20Wins-3-F44336?style=for-the-badge)
@@ -262,13 +269,20 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 <div align="center">
+
+> *"The best code is not the most clever — it's the kind that makes someone's day better."*
+
+> *"Shipping a good solution today beats perfecting one in 3 months."*
+
+> *"DevOps isn't a team. It's a mindset. Every engineer should care about how their code reaches production."*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
 
 ---
 
