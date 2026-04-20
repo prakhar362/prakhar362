@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prakhar+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;7+Production+Systems+%7C+9.75+CGPA;Building+systems+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prakhar+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;7+Production+Systems+%7C;Building+systems+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -77,82 +77,31 @@
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" />
 
 **Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />&nbsp;<img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="framer"/>
 
 **Backend & APIs**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" />
 
 **Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
 
 **AI / ML**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" />&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="langchain"/>&nbsp;<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="huggingface"/>
 
 **DevOps & Cloud**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws-wordmark" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" />
 
 **Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,figma,postman,jest" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter"/>
 
 ---
 
@@ -188,12 +137,6 @@
     <td>Real-time comms — instant messaging + HD video calling, JWT auth, group management, mobile-first.<br/><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Stream SDK</code></td>
     <td><a href="https://streamify-nu-bay.vercel.app">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/Streamify">💻 Repo</a></td>
-  </tr>
-  <tr>
-    <td>📱 <b>Xillion App</b></td>
-    <td>Production fintech trading app — <b>10+ screens</b>, real-time trades via AngelOne APIs, OAuth 2.0 + OTP auth. <b>40% faster delivery</b> than team baseline.<br/><code>React Native</code> <code>OAuth 2.0</code> <code>AngelOne APIs</code></td>
-    <td>—</td>
-    <td>—</td>
   </tr>
   <tr>
     <td>🎓 <b>LMS Platform</b></td>
