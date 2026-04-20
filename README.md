@@ -92,6 +92,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
 
 **AI / ML**
+
 <img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /> 
 
 
