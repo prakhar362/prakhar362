@@ -116,32 +116,75 @@
     <th>Code</th>
   </tr>
   <tr>
+    <td>🎓 <b>EduMate</b></td>
+    <td>AI-powered learning companion that transforms PDFs into interactive summaries, audio, and quizzes using Google Gemini.<br/>
+    <img src="https://img.shields.io/badge/Expo-0081C9?style=flat-square&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/ChromaDB-0065FF?style=flat-square&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
+    <td><a href="https://edumate-app-d10b.onrender.com/">🔗 Live</a></td>
+    <td><a href="https://github.com/prakhar362/Edumate-app">💻 Repo</a></td>
+  </tr>
+  <tr>
     <td>🎂 <b>BanquetEase</b></td>
-    <td>AI-powered event automation — Vertex AI video invites, WhatsApp via Twilio, Razorpay payments, real-time kitchen dashboard. <b>Saves 20+ hrs/event.</b><br/><code>Next.js 16</code> <code>TypeScript</code> <code>Firebase</code> <code>Twilio</code> <code>Vertex AI</code> <code>Docker</code></td>
+    <td>AI-powered event automation — Vertex AI video invites, WhatsApp via Twilio, Razorpay payments, real-time kitchen dashboard.<br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></td>
     <td><a href="https://banquetease.vercel.app">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/SMURFS_hn4">💻 Repo</a></td>
   </tr>
   <tr>
     <td>🎨 <b>Sketchcalibur</b></td>
-    <td>Real-time collaborative canvas for <b>100+ concurrent users</b> with &lt;100ms sync, CRDT ordering, AI diagram generation, 70% session retention.<br/><code>Next.js</code> <code>WebSockets</code> <code>MongoDB</code> <code>Vertex AI</code> <code>Docker</code></td>
+    <td>Real-time collaborative canvas for <b>100+ concurrent users</b> with &lt;100ms sync, CRDT ordering, AI diagram generation.<br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></td>
     <td><a href="https://sketchcalibur.vercel.app">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/sketchcalibur">💻 Repo</a></td>
   </tr>
   <tr>
     <td>🍽️ <b>VesitBite</b></td>
-    <td>Canteen automation — <b>80% error reduction</b>, 90% order accuracy, 30% faster delivery for <b>200+ daily users</b>.<br/><code>Node.js</code> <code>Socket.io</code> <code>React Native</code> <code>Razorpay</code></td>
+    <td>Canteen automation — <b>80% error reduction</b>, 90% order accuracy, 30% faster delivery for <b>200+ daily users</b>.<br/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" /></td>
     <td><a href="https://appetize.io/app/b_vbrq2hacm2cze2owt2hjjjm6xe">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/vesitbite">💻 Repo</a></td>
   </tr>
   <tr>
+    <td>📱 <b>Xillion App</b></td>
+    <td>Production fintech trading app — 10+ screens, real-time trades via AngelOne APIs, OAuth 2.0 + OTP auth.<br/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/OAuth_2.0-3D3D3D?style=flat-square&logo=oauth&logoColor=white" /></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
     <td>💬 <b>Streamify</b></td>
-    <td>Real-time comms — instant messaging + HD video calling, JWT auth, group management, mobile-first.<br/><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Stream SDK</code></td>
+    <td>Real-time comms — instant messaging + HD video calling, JWT auth, group management, mobile-first.<br/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
     <td><a href="https://streamify-nu-bay.vercel.app">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/Streamify">💻 Repo</a></td>
   </tr>
   <tr>
-    <td>🎓 <b>LMS Platform</b></td>
-    <td>Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics.<br/><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></td>
+    <td>📚 <b>LMS Platform</b></td>
+    <td>Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics.<br/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></td>
     <td><a href="https://courseconvo.onrender.com/">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/LMS">💻 Repo</a></td>
   </tr>
