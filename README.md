@@ -27,9 +27,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)
 &nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-9.75%20%2F%2010-blue?style=flat-square)
-&nbsp;
-![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-3%20🏆-orange?style=flat-square)
+![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-2%20🏆-orange?style=flat-square)
 &nbsp;
 ![Systems](https://img.shields.io/badge/Production%20Systems-7%20🚀-red?style=flat-square)
 &nbsp;
@@ -44,7 +42,7 @@
 ```yaml
 👨‍💻  Name       : Prakhar Shrivastava
 🎓  College    : VESIT, Mumbai — B.E. Information Technology (2023–2027)
-📊  CGPA       : 9.75 / 10 (till 5th Semester)
+📊  CGPA       : 9.75 / 10
 📍  Location   : Mumbai, India
 💼  Open To    : Full-Stack | Backend | AI/LLM | DevOps Roles
 🚀  Currently  : Building real-time & AI-native production systems
@@ -55,7 +53,7 @@
 - 🌱 **Currently learning:** System Design at scale, Kubernetes, Terraform, RAG pipelines
 - 🤝 **Open to collaborate on:** Full-stack SaaS, AI products, DevOps-heavy systems
 - 💬 **Ask me about:** Node.js, React, WebSockets, Firebase, AI integration, system design
-- 🏆 **Highlights:** 3 Hackathon Wins · 7 Production Systems · 100+ Devs Mentored · 2 Internships
+- 🏆 **Highlights:** 7 Production Systems · 100+ Devs Mentored · 2 Internships
 
 ---
 
@@ -114,7 +112,6 @@
 
 ![Google Cloud](https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-%23FFD21E.svg?style=for-the-badge)
 
@@ -144,12 +141,11 @@
 
 | Project | Description | Live | Code |
 |:---:|:---|:---:|:---:|
-| 🎂 **BanquetEase** | AI-powered event automation — Vertex AI videos, WhatsApp via Twilio, Razorpay payments, real-time kitchen dashboard. **Saves 20+ hrs/event.** `Next.js` `Firebase` `Docker` `Twilio` | [🔗 Live](https://banquetease.vercel.app) | [💻 Repo](https://github.com/prakhar362/SMURFS_hn4) |
+
 | 🎨 **Sketchcalibur** | Real-time collaborative canvas for **100+ concurrent users** with <100ms sync, CRDT ordering, AI diagram generation, 70% session retention. `WebSockets` `MongoDB` `Vertex AI` | [🔗 Live](https://sketchcalibur.vercel.app) | [💻 Repo](https://github.com/prakhar362/sketchcalibur) |
-| 🍽️ **VesitBite** | Canteen automation with **80% error reduction**, 90% order accuracy, 30% faster delivery for **200+ daily users**. `Node.js` `Socket.io` `React Native` `Razorpay` | — | [💻 Repo](https://github.com/prakhar362/vesitbite) |
+| 🍽️ **VesitBite** | Canteen automation with **80% error reduction**, 90% order accuracy, 30% faster delivery for **200+ daily users**. `Node.js` `Socket.io` `React Native` `Razorpay` |https://appetize.io/app/b_vbrq2hacm2cze2owt2hjjjm6xe | [💻 Repo](https://github.com/prakhar362/vesitbite) |
 | 💬 **Streamify** | Real-time comms platform — instant messaging + HD video calling with JWT auth, group management, mobile-first. `React` `Node.js` `Stream SDK` | [🔗 Live](https://streamify-nu-bay.vercel.app) | [💻 Repo](https://github.com/prakhar362/Streamify) |
-| 📱 **Xillion App** | Production fintech app — **10+ screens**, real-time trades via AngelOne APIs, OAuth 2.0 auth. **40% faster delivery** than team baseline. `React Native` `OAuth 2.0` | — | — |
-| 🎓 **LMS Platform** | Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics. `MongoDB` `Express` `React` | — | [💻 Repo](https://github.com/prakhar362/LMS) |
+| 🎓 **LMS Platform** | Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics. `MongoDB` `Express` `React` |https://courseconvo.onrender.com/ | [💻 Repo](https://github.com/prakhar362/LMS) |
 
 </div>
 
@@ -167,7 +163,7 @@
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=prakhar362&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar362&show_icons=true&locale=en" height="180" alt="GitHub Streak" />
 
 </div>
 
@@ -177,15 +173,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=prakhar362&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
 
 ---
 
@@ -242,15 +229,6 @@
 
 </div>
 
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=prakhar362&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
