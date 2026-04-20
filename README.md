@@ -92,7 +92,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
 
 **AI / ML**
-<p align="left"><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>  </p>
+<img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /> 
 
 
 **DevOps & Cloud**
