@@ -160,21 +160,16 @@
     <td><a href="https://appetize.io/app/b_vbrq2hacm2cze2owt2hjjjm6xe">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/vesitbite">💻 Repo</a></td>
   </tr>
-  <tr>
-    <td>📱 <b>Xillion App</b></td>
-    <td>Production fintech trading app — 10+ screens, real-time trades via AngelOne APIs, OAuth 2.0 + OTP auth.<br/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/OAuth_2.0-3D3D3D?style=flat-square&logo=oauth&logoColor=white" /></td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
+
   <tr>
     <td>💬 <b>Streamify</b></td>
     <td>Real-time comms — instant messaging + HD video calling, JWT auth, group management, mobile-first.<br/>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></td>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-4.1.3-010101??style=flat-square&logo=Socket.io&logoColor=white" />
+    </td>
     <td><a href="https://streamify-nu-bay.vercel.app">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/Streamify">💻 Repo</a></td>
   </tr>
@@ -184,7 +179,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></td>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" /></td>
     <td><a href="https://courseconvo.onrender.com/">🔗 Live</a></td>
     <td><a href="https://github.com/prakhar362/LMS">💻 Repo</a></td>
   </tr>
