@@ -77,31 +77,31 @@
 
 **Languages**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" height="40" /></td></tr></table>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" />
 
 **Frontend**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" height="40" /></td><td><img src="https://cdn.simpleicons.org/framer" height="40" alt="framer"/></td></tr></table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />&nbsp;<img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="framer"/>
 
 **Backend & APIs**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" height="40" /></td></tr></table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" />
 
 **Databases**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" height="40" /></td></tr></table>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
 
 **AI / ML**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" height="40" /></td><td><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain"/></td><td><img src="https://cdn.simpleicons.org/huggingface" height="40" alt="huggingface"/></td></tr></table>
+<img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" />&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="langchain"/>&nbsp;<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="huggingface"/>
 
 **DevOps & Cloud**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" height="40" /></td></tr></table>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" />
 
 **Tools**
 
-<table><tr><td><img src="https://skillicons.dev/icons?i=git,figma,postman,jest" height="40" /></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter"/></td></tr></table>
+<img src="https://skillicons.dev/icons?i=git,figma,postman,jest" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter"/>
 
 ---
 
