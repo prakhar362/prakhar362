@@ -81,7 +81,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />&nbsp;<img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="framer"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" />
 
 **Backend & APIs**
 
@@ -92,8 +92,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" />
 
 **AI / ML**
+<p align="left"><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>  </p>
 
-<img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" />&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="langchain"/>&nbsp;<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="huggingface"/>
 
 **DevOps & Cloud**
 
@@ -101,7 +101,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,figma,postman,jest" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="jupyter"/>
+<img src="https://skillicons.dev/icons?i=git,figma,postman,jest" />
 
 ---
 
