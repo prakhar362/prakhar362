@@ -1,421 +1,254 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    > whoami                                                          ║
-║    PRAKHAR SHRIVASTAVA — Full Stack Engineer & AI Builder            ║
-║    STATUS        : open_for_opportunities                            ║
-║    CURRENT_OBJ   : building systems that actually matter             ║
-║    LOCATION      : Mumbai, India                                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Prakhar%20Shrivastava&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descSize=16&descColor=aaaaff&descAlignY=58)
 
 </div>
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:16213e&height=220&section=header&text=Prakhar%20Shrivastava&fontSize=52&fontColor=58c4e8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20Systems%20Thinker&descSize=17&descColor=8892b0&descAlignY=60)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Prakhar+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Builder;7+Production+Systems+%7C+9.75+CGPA;Building+systems+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prakhar--shrivastava.vercel.app-58c4e8?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://prakhar-shrivastava.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakhar--shrivastava-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/prakhar-shrivastava-a4927b2b5/)
-[![Twitter](https://img.shields.io/badge/Twitter-@prakharshri2005-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://x.com/prakharshri2005)
-[![Email](https://img.shields.io/badge/Email-prakharshri2005@gmail.com-ff6b6b?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:prakharshri2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prakhar-shrivastava.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shrivastava-a4927b2b5/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prakharshri2005)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshri2005@gmail.com)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-00d26a?style=flat-square&labelColor=0d0d0d)
-![CGPA](https://img.shields.io/badge/CGPA-9.75%20%2F%2010-58c4e8?style=flat-square&labelColor=0d0d0d)
-![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-3-f7c948?style=flat-square&labelColor=0d0d0d)
-![Production Systems](https://img.shields.io/badge/Production%20Systems-7-ff6b6b?style=flat-square&labelColor=0d0d0d)
-![Profile Views](https://komarev.com/ghpvc/?username=prakhar362&label=profile%20views&color=58c4e8&style=flat-square&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)
+&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-9.75%20%2F%2010-blue?style=flat-square)
+&nbsp;
+![Hackathons](https://img.shields.io/badge/Hackathon%20Wins-3%20🏆-orange?style=flat-square)
+&nbsp;
+![Systems](https://img.shields.io/badge/Production%20Systems-7%20🚀-red?style=flat-square)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=prakhar362&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" width="355" src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar362&bg_color=0d0d0d&color=58c4e8&line=58c4e8&point=ffffff&area=true&hide_border=true&area_color=0f3460" />
-
-### `> cat about.yaml`
+## 🙋‍♂️ About Me
 
 ```yaml
-name        : Prakhar Shrivastava
-role        : Full-Stack Engineer / AI Builder
-college     : VESIT, Mumbai (B.E. IT — 2023–2027)
-year        : 3rd Year
-philosophy  : ship fast, learn faster, build what actually matters
-superpower  : turning complex backend systems into products people love
-currently   : building real-time & AI-native systems
-open_to     : full-stack, backend, AI/LLM, DevOps roles
+👨‍💻  Name       : Prakhar Shrivastava
+🎓  College    : VESIT, Mumbai — B.E. Information Technology (2023–2027)
+📊  CGPA       : 9.75 / 10 (till 5th Semester)
+📍  Location   : Mumbai, India
+💼  Open To    : Full-Stack | Backend | AI/LLM | DevOps Roles
+🚀  Currently  : Building real-time & AI-native production systems
+⚡  Fun Fact   : I played cricket before I played keyboards — still love both 🏏
 ```
 
-<br clear="right"/>
+- 🔭 **Currently building:** AI-integrated real-time systems and collaborative tools
+- 🌱 **Currently learning:** System Design at scale, Kubernetes, Terraform, RAG pipelines
+- 🤝 **Open to collaborate on:** Full-stack SaaS, AI products, DevOps-heavy systems
+- 💬 **Ask me about:** Node.js, React, WebSockets, Firebase, AI integration, system design
+- 🏆 **Highlights:** 3 Hackathon Wins · 7 Production Systems · 100+ Devs Mentored · 2 Internships
 
 ---
 
-### `> cat highlights.log`
-
-```diff
-+ 7 Production Systems shipped to real users
-+ 200+ GitHub Commits, 10+ repos in the wild
-+ 100+ concurrent users handled (real-time architecture)
-+ 3 Hackathon Wins  →  1st Prize + Top 15 + Top 5
-+ 100+ Developers Mentored @ ISTE-VESIT
-+ 10+ Technical Workshops led on AI, LLMs, full-stack
-+ 2 Quality Internships  →  Fintech + Cloud/AWS
-+ CGPA: 9.75 — because I take what I do seriously
-```
-
----
-
-### `> tail -f current_mission.log`
-
-```diff
-+ building   : real-time collaborative & event-driven systems
-+ exploring  : agentic AI pipelines & multi-model orchestration
-+ learning   : system design patterns, Kubernetes, Terraform
-+ shipping   : mobile apps that feel native (React Native)
-+ teaching   : AI/LLMs, n8n automation @ ISTE-VESIT
-```
-
----
-
-### `> ls ./skills --all`
+## 🌐 Socials
 
 <div align="center">
 
-**⟨ Languages ⟩**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=58c4e8)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=58c4e8)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=58c4e8)
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=58c4e8)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=58c4e8)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=58c4e8)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=58c4e8)
-
-**⟨ Frontend ⟩**
-
-![React](https://img.shields.io/badge/React.js-000?style=flat-square&logo=react&logoColor=58c4e8)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=58c4e8)
-![React Native](https://img.shields.io/badge/React%20Native-000?style=flat-square&logo=react&logoColor=58c4e8)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwind-css&logoColor=58c4e8)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000?style=flat-square&logo=framer&logoColor=58c4e8)
-![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=58c4e8)
-
-**⟨ Backend & APIs ⟩**
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=58c4e8)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=58c4e8)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=58c4e8)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=58c4e8)
-![WebSockets](https://img.shields.io/badge/WebSockets-000?style=flat-square&logo=socket.io&logoColor=58c4e8)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=flat-square&logo=nestjs&logoColor=58c4e8)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000?style=flat-square&logo=postman&logoColor=58c4e8)
-
-**⟨ Databases ⟩**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=58c4e8)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=58c4e8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=58c4e8)
-![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=58c4e8)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=58c4e8)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=58c4e8)
-
-**⟨ AI / ML ⟩**
-
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-000?style=flat-square&logo=google-cloud&logoColor=58c4e8)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=58c4e8)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=58c4e8)
-![Gemini](https://img.shields.io/badge/Gemini-000?style=flat-square&logo=google&logoColor=58c4e8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface&logoColor=58c4e8)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000?style=flat-square&logo=openai&logoColor=58c4e8)
-
-**⟨ DevOps & Cloud ⟩**
-
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=58c4e8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=58c4e8)
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws&logoColor=58c4e8)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=flat-square&logo=github-actions&logoColor=58c4e8)
-![Jenkins](https://img.shields.io/badge/Jenkins-000?style=flat-square&logo=jenkins&logoColor=58c4e8)
-![Prometheus](https://img.shields.io/badge/Prometheus-000?style=flat-square&logo=prometheus&logoColor=58c4e8)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=58c4e8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prakhar-shrivastava-a4927b2b5/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/prakharshri2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://prakhar-shrivastava.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:prakharshri2005@gmail.com)
 
 </div>
 
 ---
 
-### `> ./projects --featured --sort=impact`
+## 💻 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages**
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-#### 🎨 Sketchcalibur
-*Collaborative canvas — 100+ users, <100ms sync*
+**Frontend**
 
-```
-╭─ impact ────────────────────────────────────╮
-│ ░ 100+ concurrent users, zero conflicts     │
-│ ░ CRDT-based deterministic ordering         │
-│ ░ AI diagram generation from sketches       │
-│ ░ Persistent state across disconnections    │
-│ ░ 70% session retention                     │
-╰─────────────────────────────────────────────╯
-```
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
-`Next.js` `TypeScript` `WebSockets` `MongoDB` `Vertex AI` `Docker`
+**Backend & APIs**
 
-[![Live](https://img.shields.io/badge/live_demo-→-58c4e8?style=flat-square&labelColor=000)](https://sketchcalibur.vercel.app)
-[![Code](https://img.shields.io/badge/github-→-8892b0?style=flat-square&labelColor=000&logo=github)](https://github.com/prakhar362/sketchcalibur)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Databases**
 
-#### 🍽️ VesitBite
-*Canteen automation — 80% errors eliminated*
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-```
-╭─ impact ────────────────────────────────────╮
-│ ░ 80% reduction in order errors             │
-│ ░ 90% order accuracy (multi-layer checks)   │
-│ ░ 30% faster delivery, 200+ daily users     │
-│ ░ Real-time kitchen ops dashboard           │
-│ ░ 3 months continuous production uptime     │
-╰─────────────────────────────────────────────╯
-```
+**AI / ML**
 
-`Node.js` `MongoDB` `React` `React Native` `Socket.io` `Razorpay`
+![Google Cloud](https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-%23FFD21E.svg?style=for-the-badge)
 
-[![Code](https://img.shields.io/badge/github-→-8892b0?style=flat-square&labelColor=000&logo=github)](https://github.com/prakhar362/vesitbite)
+**DevOps & Cloud**
 
-</td>
-<td width="50%" valign="top">
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 💬 Streamify
-*Real-time comms platform for peer learning*
+**Tools**
 
-```
-╭─ impact ────────────────────────────────────╮
-│ ░ Instant messaging + HD video calling      │
-│ ░ Secure JWT auth (httpOnly cookies)        │
-│ ░ Group management & permissions            │
-│ ░ Stream Chat & Video SDK integration       │
-│ ░ Mobile-responsive, works anywhere         │
-╰─────────────────────────────────────────────╯
-```
-
-`React.js` `Node.js` `Express` `MongoDB` `Stream SDK` `JWT`
-
-[![Live](https://img.shields.io/badge/live_demo-→-58c4e8?style=flat-square&labelColor=000)](https://streamify-nu-bay.vercel.app)
-[![Code](https://img.shields.io/badge/github-→-8892b0?style=flat-square&labelColor=000&logo=github)](https://github.com/prakhar362/Streamify)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📱 Xillion — Fintech Trading App
-*10+ production screens shipped in 2 months*
-
-```
-╭─ impact ────────────────────────────────────╮
-│ ░ Real-time trade execution (AngelOne APIs) │
-│ ░ OAuth 2.0 + OTP secure auth              │
-│ ░ Live portfolio insights & balance         │
-│ ░ 40% faster delivery than team baseline    │
-│ ░ Real money, real trades, real production  │
-╰─────────────────────────────────────────────╯
-```
-
-`React Native` `OAuth 2.0` `AngelOne APIs` `Real-time Sync`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 LMS Platform
-*Multi-role learning management system*
-
-```
-╭─ impact ────────────────────────────────────╮
-│ ░ Role-based access (Student/Teacher/Admin) │
-│ ░ Course management & enrollment flows      │
-│ ░ Assessment, grading & progress tracking   │
-│ ░ Real-time analytics dashboard             │
-│ ░ Complete MERN full-stack ownership        │
-╰─────────────────────────────────────────────╯
-```
-
-`MongoDB` `Express` `React` `Node.js` `Tailwind CSS`
-
-[![Code](https://img.shields.io/badge/github-→-8892b0?style=flat-square&labelColor=000&logo=github)](https://github.com/prakhar362/LMS)
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### `> cat experience.json`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💼 Xillion, Mumbai** `Jun–Jul 2025`
-*React Native Developer Intern*
-```
-→ 10+ production-ready screens shipped
-→ OAuth 2.0 + OTP auth integration
-→ Real-time broker API (AngelOne) integration
-→ 40% faster feature delivery than baseline
-→ Live portfolio tracking → real user impact
-```
-
-</td>
-<td width="50%" valign="top">
-
-**☁️ Applied Cloud Computing, Mumbai** `Jan–Apr 2025`
-*Cloud Engineering Intern*
-```
-→ Built resume parsing pipeline with NLP
-→ Tested with 50+ real applicants
-→ AWS infrastructure from scratch
-→ EC2, Lambda, API Gateway experience
-→ End-to-end cloud pipeline ownership
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### `> cat achievements.md`
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-🥇 **1st Prize**
-Startup Challenge 2025
-*Best Idea & Design*
-VESIT
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-🏆 **Top 5 / 200+ Teams**
-Invictus 2025
-*Hackathon*
-
-</td>
-</tr>
-</table>
-
----
-
-### `> neofetch --github-stats`
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakhar362&show_icons=true&theme=transparent&hide_border=true&title_color=58c4e8&icon_color=58c4e8&text_color=8892b0&bg_color=00000000&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar362&layout=compact&theme=transparent&hide_border=true&title_color=58c4e8&text_color=8892b0&bg_color=00000000&langs_count=8" width="49%" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=prakhar362&theme=transparent&hide_border=true&stroke=58c4e8&ring=58c4e8&fire=ff6b6b&currStreakLabel=58c4e8&sideLabels=8892b0&dates=555&currStreakNum=ffffff&sideNums=ffffff&background=00000000)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakhar362&bg_color=0d0d0d&color=58c4e8&line=58c4e8&point=ffffff&area=true&hide_border=true&area_color=0f3460)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=prakhar362&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+| Project | Description | Live | Code |
+|:---:|:---|:---:|:---:|
+| 🎂 **BanquetEase** | AI-powered event automation — Vertex AI videos, WhatsApp via Twilio, Razorpay payments, real-time kitchen dashboard. **Saves 20+ hrs/event.** `Next.js` `Firebase` `Docker` `Twilio` | [🔗 Live](https://banquetease.vercel.app) | [💻 Repo](https://github.com/prakhar362/SMURFS_hn4) |
+| 🎨 **Sketchcalibur** | Real-time collaborative canvas for **100+ concurrent users** with <100ms sync, CRDT ordering, AI diagram generation, 70% session retention. `WebSockets` `MongoDB` `Vertex AI` | [🔗 Live](https://sketchcalibur.vercel.app) | [💻 Repo](https://github.com/prakhar362/sketchcalibur) |
+| 🍽️ **VesitBite** | Canteen automation with **80% error reduction**, 90% order accuracy, 30% faster delivery for **200+ daily users**. `Node.js` `Socket.io` `React Native` `Razorpay` | — | [💻 Repo](https://github.com/prakhar362/vesitbite) |
+| 💬 **Streamify** | Real-time comms platform — instant messaging + HD video calling with JWT auth, group management, mobile-first. `React` `Node.js` `Stream SDK` | [🔗 Live](https://streamify-nu-bay.vercel.app) | [💻 Repo](https://github.com/prakhar362/Streamify) |
+| 📱 **Xillion App** | Production fintech app — **10+ screens**, real-time trades via AngelOne APIs, OAuth 2.0 auth. **40% faster delivery** than team baseline. `React Native` `OAuth 2.0` | — | — |
+| 🎓 **LMS Platform** | Full MERN LMS — role-based access (Student/Teacher/Admin), course management, grading, progress analytics. `MongoDB` `Express` `React` | — | [💻 Repo](https://github.com/prakhar362/LMS) |
 
 </div>
 
 ---
 
-### `> cat stats.table`
-
-| Metric | Value |
-|:---|:---|
-| 🚀 Production Systems Shipped | **7** |
-| 👥 Concurrent Users Handled | **100+** |
-| 🔌 External APIs Integrated | **10+** |
-| 📝 GitHub Commits | **200+** |
-| 🏅 Hackathon Wins | **3** |
-| 👨‍🏫 Developers Mentored | **100+** |
-| 🎤 Technical Workshops Led | **10+** |
-| 🎓 CGPA | **9.75 / 10** |
-| 💼 Internships | **2 (Fintech + Cloud)** |
-| 📅 Years Active | **2+ years of production code** |
-
----
-
-### `> cat interests.txt`
-
-```
-[▓▓▓▓▓▓▓▓▓░]  Real-Time Systems       — WebSockets, events, distributed state
-[▓▓▓▓▓▓▓▓░░]  Agentic AI              — multi-model, multi-step, autonomous flows
-[▓▓▓▓▓▓▓░░░]  Backend Architecture   — the invisible engine behind great products
-[▓▓▓▓▓▓░░░░]  DevOps & Cloud         — from code to production, I own the whole path
-[▓▓▓▓▓░░░░░]  Mobile Engineering     — cross-platform apps that feel native
-[▓▓▓▓░░░░░░]  System Design          — 100 users → 1M users, no rewrites
-```
-
----
-
-### `> cat community.log`
-
-**🎓 Jr. Technical Officer @ ISTE-VESIT** *(Sep 2024 – Present)*
-```diff
-+ Led 10+ technical workshops for 100+ members
-+ Topics: AI/LLMs, n8n automation, full-stack development
-+ Mentored 100+ junior developers in their early journey
-+ Organized coding competitions & college-level hackathons
-+ Because great engineers lift others as they climb
-```
-
----
-
-### `> tail -f wisdom.log`
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar362&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar362&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=prakhar362&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar362&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" alt="Activity Graph" width="95%"/>
 
 </div>
 
 ---
 
-### `> ping prakhar_shrivastava --connect`
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/prakhar-shrivastava-a4927b2b5/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-58c4e8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://prakhar-shrivastava.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Along-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d)](https://x.com/prakharshri2005)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:prakharshri2005@gmail.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prakhar362&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🥇 1st Prize | 🏅 Top 15 / 300+ Teams | 🏆 Top 5 / 200+ Teams |
+|:---:|:---:|:---:|
+| **Startup Challenge 2025** | **HackCelestial 2.0** | **Invictus 2025** |
+| Best Idea & Design — VESIT | National Hackathon | College Hackathon |
+
+</div>
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+| Role | Company | Period | Highlights |
+|:---|:---|:---|:---|
+| 📱 React Native Dev Intern | **Xillion, Mumbai** | Jun–Jul 2025 | 10+ production screens · Real AngelOne broker API · OAuth 2.0 · **40% faster than baseline** |
+| ☁️ Cloud Engineering Intern | **Applied Cloud Computing, Mumbai** | Jan–Apr 2025 | AWS infra from scratch · NLP resume parser · Tested on 50+ applicants |
+| 🎓 Jr. Technical Officer | **ISTE-VESIT** | Sep 2024–Present | Led 10+ workshops · Mentored **100+ developers** · AI/LLMs, n8n, full-stack |
+
+</div>
+
+---
+
+## 📈 At a Glance
+
+<div align="center">
+
+![](https://img.shields.io/badge/Production%20Systems-7%20Shipped-FF6B6B?style=for-the-badge)
+![](https://img.shields.io/badge/Concurrent%20Users-100%2B%20Handled-4CAF50?style=for-the-badge)
+![](https://img.shields.io/badge/APIs%20Integrated-10%2B-2196F3?style=for-the-badge)
+![](https://img.shields.io/badge/GitHub%20Commits-200%2B-9C27B0?style=for-the-badge)
+
+![](https://img.shields.io/badge/Developers%20Mentored-100%2B-FF9800?style=for-the-badge)
+![](https://img.shields.io/badge/Workshops%20Led-10%2B-00BCD4?style=for-the-badge)
+![](https://img.shields.io/badge/Hackathon%20Wins-3-F44336?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-9.75%20%2F%2010-3F51B5?style=for-the-badge)
+
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=prakhar362&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -423,16 +256,16 @@ Invictus 2025
 
 <div align="center">
 
-```
-// the best code isn't the cleverest — it's the kind that makes someone's day better.
-// shipping a good solution today beats perfecting one in 3 months.
-// if you can't explain it, you don't understand it well enough.
-```
+[![](https://visitcount.itsvg.in/api?id=prakhar362&icon=6&color=6)](https://visitcount.itsvg.in)
+
+**Thanks for stopping by! Let's build something great together. 🚀**
+
+*Open to collaborations, projects, and conversations about cricket, football, and code ⚽🏏💻*
 
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3460,100:0d0d0d&height=130&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
 
 </div>
