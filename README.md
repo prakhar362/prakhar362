@@ -77,31 +77,31 @@
 
 **Languages**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" /></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=js,ts,py,java,bash,c" height="40" /></td></tr></table>
 
 **Frontend**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" /><img src="https://cdn.simpleicons.org/framer" width="48" height="48" alt="framer"/></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux" height="40" /></td><td><img src="https://cdn.simpleicons.org/framer" height="40" alt="framer"/></td></tr></table>
 
 **Backend & APIs**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" /></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,kafka" height="40" /></td></tr></table>
 
 **Databases**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" /></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis,mysql" height="40" /></td></tr></table>
 
 **AI / ML**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" /><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="langchain"/><img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="huggingface"/></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=gcp,tensorflow,pytorch,opencv,scikitlearn" height="40" /></td><td><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="langchain"/></td><td><img src="https://cdn.simpleicons.org/huggingface" height="40" alt="huggingface"/></td></tr></table>
 
 **DevOps & Cloud**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" /></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,grafana,linux" height="40" /></td></tr></table>
 
 **Tools**
 
-<p align="left"><img src="https://skillicons.dev/icons?i=git,figma,postman,jest" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="jupyter"/></p>
+<table><tr><td><img src="https://skillicons.dev/icons?i=git,figma,postman,jest" height="40" /></td><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter"/></td></tr></table>
 
 ---
 
